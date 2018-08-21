@@ -1,0 +1,43 @@
+.bhitappfocus {
+    outline:3px solid #2f2f2f;
+}
+.bhitappselectedfocus {
+    outline:3px solid #4f4f4f;
+    background:rgba(100,100,0,.1);
+}
+.positiveelement {
+    border-style: solid !important;
+    border-color: #60FF60 !important;
+    border-width: 10px !important;
+    background:rgba(100,255,100,.33) !important;
+}
+.positiveelement0 {
+    border-style: solid !important;
+    border-color: #FFFF33 !important;
+    border-width: 10px !important;
+    background: #FFFF33 !important;
+}
+span.positiveelement {
+    border-style: inherit !important;
+    border-color: inherit !important;
+    border-width: inherit !important;
+    background:rgba(100,255,100,.33) !important;
+}
+span.positiveelement0 {
+    border-style: inherit !important;
+    border-color: inherit !important;
+    border-width: inherit !important;
+    background: #FFFF33 !important;
+}
+.positiveelement1 {
+    background: #CCFFFF !important;
+}
+.positiveelement2 {
+    background: #FFCCCC !important;
+}
+.positiveelement3 {
+    border-style: solid !important;
+    border-color: #CC66CC !important;
+    border-width: 10px !important;
+    background: #CC66CC !important;
+}
